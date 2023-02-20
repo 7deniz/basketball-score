@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #2e2ec7;
+  color: #fff;
+  max-width: 50%;
+  margin: auto;
+  margin-top: 5rem;
+  padding-bottom: 5rem;
+}
+h3 {
+  padding: 2rem;
+  font-size: 2rem;
+}
+#score-home {
+  background-color: black;
+  max-width: 50%;
+  max-height: 50%;
+  color: red;
+  padding: 2rem;
+}
+#score-guest {
+  background-color: black;
+  max-width: 50%;
+  max-height: 50%;
+  color: red;
+  padding: 2rem;
+}
+.buttons {
+  padding: 1rem;
+}
+#btn-one {
+  background-color: #2e2ec7;
+  color: #fff;
+  border-color: #fff;
+  width: 35px;
+  height: 35px;
+}
+#btn-two {
+  background-color: #2e2ec7;
+  border-color: #fff;
+  color: #fff;
+  width: 35px;
+  height: 35px;
+}
+#btn-three {
+  border-color: #fff;
+  color: #fff;
+  background-color: #2e2ec7;
+  width: 35px;
+  height: 35px;
+}
