@@ -16,20 +16,16 @@ h3 {
   padding: 2rem;
   font-size: 2rem;
 }
-#score-home {
-  background-color: black;
-  max-width: 50%;
-  max-height: 50%;
-  color: red;
-  padding: 2rem;
-}
+#score-home,
 #score-guest {
   background-color: black;
   max-width: 50%;
   max-height: 50%;
   color: red;
   padding: 2rem;
+  font-size: 4rem;
 }
+
 .buttons {
   padding: 1rem;
 }
